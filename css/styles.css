@@ -14,7 +14,7 @@ body {
 }
 
 #logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
+  background: url('../image/logo1.png') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
@@ -175,7 +175,7 @@ body {
   color:#fff;
   text-transform: uppercase;
   opacity: 0.8;
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 .category-tile:hover{
@@ -238,11 +238,11 @@ h3.menu-item-title{
 
 /*end single category page*/
 #menu-tile{
-  background: url('../images/menu-tile.jpg') no-repeat;
+  background: url('../image/menu.jpg') no-repeat;
   background-position:center;
 }
 #specials-tile{
-  background: url('../images/specials-tile.jpg') no-repeat;
+  background: url('../image/special.jpg') no-repeat;
   background-position:center;
 }
 
